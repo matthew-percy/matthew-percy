@@ -39,7 +39,7 @@ View repository at: https://github.com/matthew-percy/ols655-project
 This group project is the culmination of the database design techniques taught in OLS655. The project involved designing an Oracle SQL database that stores the registration information for a fictitious Camping website.
 
 ## One Bullet
-![onebullet](https://user-images.githubusercontent.com/53625291/230653548-6f45cbe0-73ea-45eb-977a-b023d8ef7300.png)
+![onebullet](https://user-images.githubusercontent.com/53625291/230655955-24bf504c-702e-44a9-942f-39a0deb1a840.png)
 
 Play online at: https://mrbru3.itch.io/illusion
 Made for the GMTK Game Jam based on the theme "**Only One**" 
