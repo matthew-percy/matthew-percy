@@ -4,6 +4,7 @@
 
 ## Skills competition
 ![skills-canada](https://user-images.githubusercontent.com/53625291/230654716-2e1ed2c1-00bb-4ecb-8472-1f8b16cb9221.jpg)
+
 View all programs created at: https://github.com/matthew-percy/AllSkillsCompetitionPrograms
 
 Chosen to represent Seneca for the 2020 Ontario skills competition. Seneca gave us various assignments and tests to determine who would be the best fit as only one student per college could go to the competition. Due to Covid the competition got canceled last minute but the experience and knowledge gained through this time was invaluable.
@@ -24,6 +25,7 @@ For the technically proficient, aliases are subdomains under our domain names. T
 
 ## Illusion
 ![illusion](https://user-images.githubusercontent.com/53625291/230651328-c2055054-c1f8-4d0f-bd13-03fda22d6814.png)
+
 Download and play at: https://mrbru3.itch.io/illusion
 Made for the 2019 Community Game Jam based on the theme "**The Game Is A Liar**" 
 
@@ -31,12 +33,14 @@ Utilizes camera perspective and lighting to trick the player into following the 
 
 ## Camp Registration Website
 ![login](https://user-images.githubusercontent.com/53625291/230654329-bb5bf1c6-3b9f-4996-b8d4-a2432711c9da.png)
+
 View repository at: https://github.com/matthew-percy/ols655-project
 
 This group project is the culmination of the database design techniques taught in OLS655. The project involved designing an Oracle SQL database that stores the registration information for a fictitious Camping website.
 
 ## One Bullet
 ![onebullet](https://user-images.githubusercontent.com/53625291/230653548-6f45cbe0-73ea-45eb-977a-b023d8ef7300.png)
+
 Play online at: https://mrbru3.itch.io/illusion
 Made for the GMTK Game Jam based on the theme "**Only One**" 
 
@@ -44,6 +48,7 @@ Players face against an endless horde of enemies, equipped with only one bullet.
 
 ## RC CAR
 ![RCcar](https://user-images.githubusercontent.com/53625291/230653824-0f75a0e5-7665-438a-bb20-faf1b9b685c3.jpeg)
+
 View repository at: https://github.com/matthew-percy/Web-Controlled-RC-Car
 
 RC car controlled via a webpage with camera display on a Raspberry Pi
