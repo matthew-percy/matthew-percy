@@ -7,7 +7,7 @@
 
 ### View all programs created at: https://github.com/matthew-percy/AllSkillsCompetitionPrograms
 
-### Chosen to represent Seneca for the 2020 Ontario skills competition. Seneca gave us various assignments and tests to determine who would be the best fit as only one student per college could go to the competition. Due to Covid the competition got canceled last minute but the experience and knowledge gained through this time was invaluable.
+### Chosen to represent Seneca for the 2020 Ontario skills competition. Seneca gave us various assignments and tests to determine who would be the best fit as only one student per college could go to the competition. After being seleted I continued to sharpen my skills in prepartaion. Due to Covid the competition got canceled last minute but the experience and knowledge gained through this time was invaluable.
 
 ## Cryptachi
 
