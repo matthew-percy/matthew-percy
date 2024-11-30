@@ -41,7 +41,7 @@
 ## One Bullet
 ![onebullet](https://user-images.githubusercontent.com/53625291/230655955-24bf504c-702e-44a9-942f-39a0deb1a840.png)
 
-### Play online at: https://mrbru3.itch.io/illusion
+### Play online at: https://mrbru3.itch.io/one-bullet
 ### Made for the GMTK Game Jam based on the theme "**Only One**" 
 
 ### Players face against an endless horde of enemies, equipped with only one bullet. Players must pick their bullet back up and enhance it with power ups to survive.
